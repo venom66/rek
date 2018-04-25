@@ -1,0 +1,22 @@
+﻿.error
+		{
+			color:red;
+			margin-top: 10px;
+			margin-bottom: 10px;
+		}
+		
+body
+		{
+			color: white;
+			background-color:black;
+			background-image: url("rej.png");
+			background-repeat: no-repeat;
+			background-position: center;
+			
+		}
+		#rej
+		
+		{
+		background-image: url("rej.png");
+		fixed no-repeat center;
+		}
